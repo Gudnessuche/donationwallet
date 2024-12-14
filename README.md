@@ -65,7 +65,7 @@ If you don't have `just` installed, you can also copy the commands found in the 
 This generates the binaries.
 
 Next, connect your phone and enable debugging mode.
-Check if you phone is connected by running
+Check if your phone is connected by running
 
 ```
 flutter devices
